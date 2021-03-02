@@ -1,0 +1,3 @@
+No processo do TDD, escreve-se um teste funcional. Rodamos esse teste; caso ele passe, vemos se a aplicação precisa de refatoração e, em caso negativo, voltamos ao passo de escrever outro teste funcional.
+Caso o teste falhe ou a aplicação necessite de refatoração, vamos a etapa de escrita de código mínimo.
+Escrevemos um teste de unidade, rodamos o teste. Se ele passa, vemos se a aplicação precisa de refatoração e em caso positivo (ou caso o teste falhe) escrevemos um código mínimo. 
