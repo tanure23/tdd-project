@@ -1,0 +1,4 @@
+Testes de unidade são testes automatizados de pequenas unidades de código, realizados de forma isolada do restante do sistema.
+Um teste de unidade é um programa que chama métodos de uma classe e verifica se eles retornam os resultados esperados.
+
+Testes funcionais são escritos com base apenas na interface do sistema sob testes.
